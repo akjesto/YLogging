@@ -8,7 +8,7 @@
 
 import Foundation
 
-class YLog {
+public class YLog {
     
     private var isDebug: Bool!
     
